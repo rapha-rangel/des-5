@@ -1,0 +1,23 @@
+
+.App{
+  height: 100vh;
+  width: 100vw;
+  background-color: aqua;
+  padding-top: 100px;
+
+}
+
+
+.display {
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  padding-bottom: 80px;
+    
+}
+
+.tituloPrincipal{
+  text-align: center;
+  padding-bottom: 40px;
+  font-size: 4em;
+}

@@ -1,0 +1,36 @@
+.titulo {
+    text-align: center;
+}
+.breakTimeBox {
+    display: flex;
+    padding: 20px;
+    font-size: 2em;
+}
+
+.number {
+    padding: 0px 10px;
+}
+
+.cronometroBox{
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.cronometroBoxBreak{
+    display: flex;
+    justify-content: center;
+    font-size: 3em;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+}
+
+
+
+
+.clockButtons{
+    display: flex;
+    justify-content: center;
+}
